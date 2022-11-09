@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "JavaBeginnerPath/ConditionStatementsAndCodeBloks/UcakBiletiHesaplama",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/SinifGeçmeDurumu",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/KullanıcıGirisi",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/HesapMakinesi",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/CinZodyagı",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/BurcBulamProgram",
         "JavaBeginnerPath/ConditionStatementsAndCodeBloks/ArtikYili",
-        "JavaBeginnerPath/ConditionStatementsAndCodeBloks/UcakBiletiHesaplama"
+        "JavaBeginnerPath/Loops"
     ]
 }
