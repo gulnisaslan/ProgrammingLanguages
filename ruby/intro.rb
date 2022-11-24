@@ -1,3 +1,4 @@
+
 #Intro
 # -1-print komutu alt satıra geçiş sağlamıyor. yan yana yazılmasını sağlıyor
 print "merhaba dünya\n" 
@@ -6,5 +7,6 @@ print "merhaba dünya\n"
 puts "merhaba dünya"
 puts "merhaba anne"
 
-#5:13
+
+
 

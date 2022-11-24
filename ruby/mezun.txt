@@ -1,0 +1,5 @@
+ayse,İstanbul
+kerim,ankara
+aslan,gaziantep
+semih,bartınkamil,Gazi
+Gülnisa,Anadolu
