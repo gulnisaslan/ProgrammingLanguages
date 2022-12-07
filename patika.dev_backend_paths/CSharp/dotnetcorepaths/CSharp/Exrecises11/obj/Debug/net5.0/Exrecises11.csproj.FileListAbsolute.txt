@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.exe
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.deps.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\ref\Exrecises11.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\bin\Debug\net5.0\Exrecises11.pdb
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\ref\Exrecises11.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.pdb
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exrecises11\obj\Debug\net5.0\Exrecises11.genruntimeconfig.cache

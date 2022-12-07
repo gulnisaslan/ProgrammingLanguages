@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.exe
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.deps.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\ref\Exercises10.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\bin\Debug\net5.0\Exercises10.pdb
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\ref\Exercises10.dll
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.pdb
+D:\gülnisaslanyazilim\yazilim\kodluyoruzpatikadev\CSharp\Exercises10\obj\Debug\net5.0\Exercises10.genruntimeconfig.cache

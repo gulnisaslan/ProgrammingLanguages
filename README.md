@@ -6,4 +6,6 @@ programming languages i learned here :
 [Ruby]()
 [Java-Btk Akademi]()
 [Java-101-Patika.dev]()
-[Kotlin-Turkcell Geleceği Yazanlar]()
+[Kotlin-Turkcell Geleceği Yazanlar][link]
+
+[link]: https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/kotlin-101/baslarken 
