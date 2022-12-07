@@ -11,14 +11,14 @@ namespace EgitimSatisSistemim
         static void Main(string[] args)
         {
             IEgitimService egitimService = new EgitimManager(new EfEgitimDal());
-            foreach (var egitim in egitimService.ListeleEgitimler())
-            {
-                Console.WriteLine(egitim.Ad);
-                Console.WriteLine(egitim.Fiyat);
+        //     foreach (var egitim in egitimService.ListeleEgitimler())
+        //     {
+        //         Console.WriteLine(egitim.Ad);
+        //         Console.WriteLine(egitim.Fiyat);
 
-            }
-            Console.ReadLine();
-        }
+        //     }
+        //     Console.ReadLine();
+        // }
 
     }
     class Egitim:IEntity
