@@ -1,0 +1,23 @@
+import requests
+import json
+
+# result=requests.get("https://jsonplaceholder.typicode.com/todos")
+
+# result=json.loads(result.text)
+
+# for i in result:
+#      if i["userId"]== 1:
+#          print(i["title"])
+
+
+
+# print(type(result))
+# print(result[0]["title"])
+# print(result[0])
+
+result = requests.get("http://www.rubyturkiye.org/users")
+
+result = requests.loads(result.text)
+
+for i in result:
+    
