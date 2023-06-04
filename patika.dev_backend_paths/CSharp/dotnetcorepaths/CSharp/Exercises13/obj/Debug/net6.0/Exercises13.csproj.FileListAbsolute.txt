@@ -1,0 +1,15 @@
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\bin\Debug\net6.0\Exercises13.exe
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\bin\Debug\net6.0\Exercises13.deps.json
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\bin\Debug\net6.0\Exercises13.runtimeconfig.json
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\bin\Debug\net6.0\Exercises13.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\bin\Debug\net6.0\Exercises13.pdb
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.csproj.AssemblyReference.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.GeneratedMSBuildEditorConfig.editorconfig
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.AssemblyInfoInputs.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.AssemblyInfo.cs
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.csproj.CoreCompileInputs.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\refint\Exercises13.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.pdb
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\Exercises13.genruntimeconfig.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Exercises13\obj\Debug\net6.0\ref\Exercises13.dll
