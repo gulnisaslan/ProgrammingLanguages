@@ -1,0 +1,15 @@
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\bin\Debug\net6.0\Algortihm-Homework-1.exe
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\bin\Debug\net6.0\Algortihm-Homework-1.deps.json
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\bin\Debug\net6.0\Algortihm-Homework-1.runtimeconfig.json
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\bin\Debug\net6.0\Algortihm-Homework-1.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\bin\Debug\net6.0\Algortihm-Homework-1.pdb
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.csproj.AssemblyReference.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.AssemblyInfoInputs.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.AssemblyInfo.cs
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.csproj.CoreCompileInputs.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\refint\Algortihm-Homework-1.dll
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.pdb
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\Algortihm-Homework-1.genruntimeconfig.cache
+D:\gulnisaslanyazilim\yazilim\Programming-Languages\patika.dev_backend_paths\CSharp\dotnetcorepaths\CSharp\Algortihm-Homework-1\obj\Debug\net6.0\ref\Algortihm-Homework-1.dll
