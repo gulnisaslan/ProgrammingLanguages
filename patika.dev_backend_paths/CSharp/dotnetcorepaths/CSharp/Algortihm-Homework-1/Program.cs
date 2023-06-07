@@ -89,11 +89,7 @@ class Program
       Cümledeki toplam kelime ve harf sayısını console'a yazdırın.*/
       public static void SumSentenceAndChar(int n){
        
-        //    System.Console.Write("Kelimeleri giriniz: ");
-        //    string sentence = Convert.ToString(Console.ReadLine()); 
-      
-        //    System.Console.WriteLine(sentence.Split(" ").Count);
-        //    System.Console.WriteLine(sentence.Replace(" ","").Count);
+
            
     }
 }

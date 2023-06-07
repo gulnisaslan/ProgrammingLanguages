@@ -23,7 +23,7 @@ class Program
      // string ss =  metodlar.EkranYazdr(salute);
        metodlar.ArtirVeTopla(x,y);
      
-      System.Console.WriteLine(ss);
+      //System.Console.WriteLine(ss);
       
      }
     static int Topla(int x,int y){
