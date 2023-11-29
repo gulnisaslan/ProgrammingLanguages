@@ -1,16 +1,4 @@
-<html lang="tr-TR">
-<head>
-     <meta charset="UTF-8">
-     <meta http-equiv="content-type" content="text/html;">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Document</title>
-</head>
-<body>
-                                                                              <!-- 06/10/2021 -->
-     <div id="hello">Merhaba Javascript</div>
-     <pre>
-     <script5>
-     //-----------ALERT()/WINDOW.ALERT()--------------------
+  //-----------ALERT()/WINDOW.ALERT()--------------------
      //alert:Sayfa içerisinde uyarı penceresi açar. Belirtilen uyarıyı ekranda gösterir.
      //window.alert():Sayfa içerisinde uyarı penceresi açar. Belirtilen uyarıyı ekranda gösterir.Nesnel bir işlemdir.(bom->Browser Object method)
      alert("Merhaba");
@@ -45,7 +33,3 @@
      debugger;
      //---------DEBUGGER ---
      //DEBUGGER;
-     </script5>
-     </pre>
-</body>
-</html>
