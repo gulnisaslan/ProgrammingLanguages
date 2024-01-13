@@ -1,0 +1,5 @@
+
+  enum Renkler{
+    Beyaz,Siyah
+  }
+
